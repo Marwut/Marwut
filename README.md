@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m @Marnilla-cone
+- 👋🏾 Hi, I’m @Marnilla-cone!
 - ☕ I’m interested in app development and software systems.
 - 🌱 I’m currently learning python and c++
 - 🍞 Pronouns: She/her
