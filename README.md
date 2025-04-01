@@ -22,7 +22,9 @@
 - Besides programming, I really love video games, history, hockey, drawing, animals, and coffee (it's a mild addiction).
   
 
-<img src="https://supplies.ju.mp/assets/images/gallery02/7eb7b85d.gif?v=1c1ba870"> <img src="https://pixelsafari.neocities.org/stamps/iloveoldweb.png"> <img src="https://64.media.tumblr.com/4fcee9b918297af7ed587a3f71ab6b68/6db96f7ecd419257-7d/s100x200/05bc57d08835dd0be70af03f165844d4234293d4.pnj"> <img src="https://pixelsafari.neocities.org/stamps/starterpokemon.gif">
+<img src="https://supplies.ju.mp/assets/images/gallery02/7eb7b85d.gif?v=1c1ba870"> <img src="https://pixelsafari.neocities.org/stamps/iloveoldweb.png"> 
+<img src="https://64.media.tumblr.com/4fcee9b918297af7ed587a3f71ab6b68/6db96f7ecd419257-7d/s100x200/05bc57d08835dd0be70af03f165844d4234293d4.pnj"> 
+<img src="https://pixelsafari.neocities.org/stamps/starterpokemon.gif">
 
 
 
