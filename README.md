@@ -16,11 +16,15 @@
 
 - I'm always eager to collaborate on projects or participate in hackathons!
 
-  
 
-- Feel free to reach out!
+- 📬 Feel free to reach out at: haymer05@outlook.com
   
 - Besides programming, I really love video games, history, hockey, drawing, animals, and coffee (it's a mild addiction).
+  
+
+<img src="https://supplies.ju.mp/assets/images/gallery02/7eb7b85d.gif?v=1c1ba870"> <img src="https://pixelsafari.neocities.org/stamps/starterpokemon.gif"> <img src="https://pixelsafari.neocities.org/stamps/iloveoldweb.png">
+
+
 
 
  
