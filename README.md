@@ -1,5 +1,5 @@
 # Hi There, I’m @Marwut!
-<img src="https://dividers.crd.co/assets/images/gallery02/a0fda078.png?v=05d33f91"> <img src="https://dividers.crd.co/assets/images/gallery02/a0fda078.png?v=05d33f91">
+<img src="https://dividers.crd.co/assets/images/gallery02/a0fda078.png?v=05d33f91">
 
 
 ### About me :)
