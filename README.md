@@ -1,7 +1,7 @@
-- 👋🏾 Hi, I’m @Marnilla-cone!
-- ☕ I’m interested in app development and software systems.
-- 🌱 I’m currently learning python and c++
-- 🍞 Pronouns: She/her
+Hi, I’m @Marwut!
+- I’m interested in app development and software + hardware systems.
+- I’m currently learning python and c++
+- Pronouns: She/her
 
 
 <!---
