@@ -1,5 +1,6 @@
 # Hi There, I’m @Marwut!
-![Pink bow divider bar](https://dividers.crd.co/assets/images/gallery02/38d22d71.png?v=05d33f91)
+<img src="https://dividers.crd.co/assets/images/gallery02/a0fda078.png?v=05d33f91"> <img src="https://dividers.crd.co/assets/images/gallery02/a0fda078.png?v=05d33f91">
+
 
 ### About me :)
   I'm an undergraduate computer engineering student currently interested in backend app development, UI Design, and software + hardware systems.
